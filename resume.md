@@ -14,7 +14,7 @@ I'm a Geography (Data Science) student at the University of Washington who build
 
 ## University Name 1 (City, State)
 
-* [University of Washington][] description, particularly if not well-known.*
+* [University of Washington] description, particularly if not well-known.*
 
 (Start Date - End Date)
 
