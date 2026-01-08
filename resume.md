@@ -14,15 +14,13 @@ I'm a Geography (Data Science) student at the University of Washington who build
 
 ## University of Washington (Seattle, WA)
 
-![University of Washington LOGO](UW-logo.png)
+![University of Washington LOGO](/assets/images/UW-logo.png)
+
+(Sep/2022 - Jun/2026)
+
+- **Major**: Geography with Data Science option
+- **Awards**: Two years of Dean's List
+- **GPA**: 3.8
 
 
-
-(Start Date - End Date)
-
-Summary of your role
-
-
-[University 1]: http://www.univ1.edu
-[University 2]: http://www.univ2.edu
-[University 3]: http://www.univ3.edu
+[University of Washington]: https://www.washington.edu
