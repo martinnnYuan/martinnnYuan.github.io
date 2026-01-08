@@ -14,9 +14,9 @@ I'm a Geography (Data Science) student at the University of Washington who build
 
 ## University of Washington (Seattle, WA)
 
-* ![UW-logo.png] 
+![University of Washington LOGO](UW-logo.png)
 
-description, particularly if not well-known.*
+
 
 (Start Date - End Date)
 
