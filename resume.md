@@ -1,4 +1,4 @@
-# Your Name
+# Martin Yuan
 
 zyuan04@uw.edu
 
@@ -12,9 +12,11 @@ I'm a Geography (Data Science) student at the University of Washington who build
 
 # Study Experience (only last 10 years)
 
-## University Name 1 (City, State)
+## University of Washington (Seattle, WA)
 
-* [University of Washington] description, particularly if not well-known.*
+* ![UW-logo.png] 
+
+description, particularly if not well-known.*
 
 (Start Date - End Date)
 
