@@ -16,6 +16,8 @@ I'm a Geography (Data Science) student at the University of Washington who build
 
 ![University of Washington LOGO](/assets/images/UW-logo.png)
 
+*University of Washington, Seattle*
+
 (Sep/2022 - Jun/2026)
 
 - **Major**: Geography with Data Science option
