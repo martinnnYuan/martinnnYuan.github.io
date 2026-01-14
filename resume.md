@@ -25,4 +25,4 @@ https://www.linkedin.com/in/zhaorun-yuan-b2b787315/
 - **GPA**: 3.8
 
 
-[University of Washington]: https://www.washington.edu
+>University of Washington Website: https://www.washington.edu
